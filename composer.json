@@ -1,0 +1,14 @@
+{
+    "name": "outeredge/magento-language-en_gb-module",
+    "type": "magento2-language",
+    "description": "Magento 2 en_GB translations",
+    "license": "MIT",
+    "require": {
+        "magento/framework": "*"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
